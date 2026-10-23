@@ -60,7 +60,7 @@ Either download the ZIP from GitHub (**Code → Download ZIP**) and unzip it, or
 run:
 
 ```bash
-git clone https://github.com/Fahdjud/Alexa-hackathon.git
+git clone https://github.com/RinDataz/Alexa-hackathon.git
 ```
 
 Then open a terminal in the project folder:
